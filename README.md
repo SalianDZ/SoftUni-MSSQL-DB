@@ -1,1 +1,1 @@
-# SoftUni-MSSQL-DB
+The first modul of the course C# Data Base
