@@ -1,1 +1,1 @@
-The first modul of the course C# Data Base
+The first modul of the course C# Data Base in which I am practising my MSSQL skills
