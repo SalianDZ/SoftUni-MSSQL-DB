@@ -1,4 +1,5 @@
-SoftUni MSSQL Database Course 📚      
+SoftUni MSSQL Database Course 📚
+      
 Description
 
 This course provides an introduction to working with databases and the fundamentals of their management. We will explore concepts and techniques for creating, manipulating, and controlling data in relational databases. The course will include hands-on exercises and projects to help students gain practical skills in the field of databases.
